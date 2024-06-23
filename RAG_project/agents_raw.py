@@ -23,7 +23,7 @@ from langchain_text_splitters import RecursiveCharacterTextSplitter
 import os
 
 # Set your OpenAI API key
-OPENAI_API_KEY = 'sk-proj-zKJ3iRbJV0VP39xBVjusT3BlbkFJFhsZO1jwAClCSoQW6Gn4'
+
 os.environ["OPENAI_API_KEY"] = OPENAI_API_KEY
 
 # Load documents from a specified web page
