@@ -23,6 +23,7 @@ from langchain_text_splitters import RecursiveCharacterTextSplitter
 import os
 
 # Set your OpenAI API key
+#if your are deplying app via streamlit, you have to mention the key in the settings of the app to call it here.
 
 #os.environ["OPENAI_API_KEY"] = OPENAI_API_KEY
 
