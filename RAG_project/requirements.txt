@@ -7,4 +7,3 @@ chromadb
 langchainhub
 streamlit
 pysqlite3-binary
-sqlite>=3.35.0
