@@ -1,7 +1,12 @@
 # Import necessary libraries
 from langchain_community.tools import WikipediaQueryRun
 from langchain_community.utilities import WikipediaAPIWrapper
-import sys sys.modules['sqlite3'] = sys.modules.pop('pysqlite3')
+
+
+import sys
+sys.modules['sqlite3'] = sys.modules.pop('pysqlite3')
+
+
 # Initialize the Wikipedia API wrapper with configuration
 api_wrapper = WikipediaAPIWrapper(top_k_results=1, doc_content_chars_max=200)
 wiki = WikipediaQueryRun(api_wrapper=api_wrapper)
