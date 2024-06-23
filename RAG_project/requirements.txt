@@ -1,0 +1,8 @@
+#run it using this command pip install -r requirements.txt in the terminal after you have navigated to the folder 
+#containg this file and the project.py files
+langchain_community
+wikipedia
+langchain_openai
+chromadb
+langchainhub
+streamlit
