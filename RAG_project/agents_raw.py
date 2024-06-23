@@ -24,7 +24,7 @@ import os
 
 # Set your OpenAI API key
 
-os.environ["OPENAI_API_KEY"] = OPENAI_API_KEY
+#os.environ["OPENAI_API_KEY"] = OPENAI_API_KEY
 
 # Load documents from a specified web page
 loader = WebBaseLoader("https://docs.smith.langchain.com/")
