@@ -1,13 +1,12 @@
 # RAG-PROJECT
-App can effortlessly query information from both LangSmith documentation and Wikipedia in one unified platform.
+🤖 𝐄𝐱𝐜𝐢𝐭𝐞𝐝 𝐭𝐨 𝐮𝐧𝐯𝐞𝐢𝐥 𝐚𝐧 𝐞𝐧𝐝-𝐭𝐨-𝐞𝐧𝐝 𝐑𝐞𝐭𝐫𝐢𝐞𝐯𝐚𝐥-𝐀𝐮𝐠𝐦𝐞𝐧𝐭𝐞𝐝 𝐆𝐞𝐧𝐞𝐫𝐚𝐭𝐢𝐨𝐧 (𝐑𝐀𝐆) 𝐚𝐩𝐩𝐥𝐢𝐜𝐚𝐭𝐢𝐨𝐧 𝐩𝐨𝐰𝐞𝐫𝐞𝐝 𝐛𝐲 𝐋𝐚𝐧𝐠𝐂𝐡𝐚𝐢𝐧, 𝐎𝐩𝐞𝐧𝐀𝐈 𝐀𝐏𝐈, 𝐚𝐧𝐝 𝐇𝐮𝐠𝐠𝐢𝐧𝐠 𝐅𝐚𝐜𝐞 𝐞𝐦𝐛𝐞𝐝𝐝𝐢𝐧𝐠𝐬!
+
+🌐✨ Experience seamless querying where users can effortlessly retrieve information from both custom documents and Wikipedia within a unified platform.
 
 <img width="317" alt="process flow chart" src="https://github.com/user-attachments/assets/4eb83341-1c57-4299-b31e-fdf10d888ab5">
 
 <img width="635" alt="PROJECT OUTPUT" src="https://github.com/user-attachments/assets/90720ad6-f6a4-40b8-b93d-2402da9ef85a">
 
-🤖 𝐄𝐱𝐜𝐢𝐭𝐞𝐝 𝐭𝐨 𝐮𝐧𝐯𝐞𝐢𝐥 𝐚𝐧 𝐞𝐧𝐝-𝐭𝐨-𝐞𝐧𝐝 𝐑𝐞𝐭𝐫𝐢𝐞𝐯𝐚𝐥-𝐀𝐮𝐠𝐦𝐞𝐧𝐭𝐞𝐝 𝐆𝐞𝐧𝐞𝐫𝐚𝐭𝐢𝐨𝐧 (𝐑𝐀𝐆) 𝐚𝐩𝐩𝐥𝐢𝐜𝐚𝐭𝐢𝐨𝐧 𝐩𝐨𝐰𝐞𝐫𝐞𝐝 𝐛𝐲 𝐋𝐚𝐧𝐠𝐂𝐡𝐚𝐢𝐧, 𝐎𝐩𝐞𝐧𝐀𝐈 𝐀𝐏𝐈, 𝐚𝐧𝐝 𝐇𝐮𝐠𝐠𝐢𝐧𝐠 𝐅𝐚𝐜𝐞 𝐞𝐦𝐛𝐞𝐝𝐝𝐢𝐧𝐠𝐬!
-
-🌐✨ Experience seamless querying where users can effortlessly retrieve information from both custom documents and Wikipedia within a unified platform.
 
 📚 𝐈𝐦𝐩𝐨𝐫𝐭𝐬 𝐚𝐧𝐝 𝐈𝐧𝐢𝐭𝐢𝐚𝐥𝐢𝐳𝐚𝐭𝐢𝐨𝐧: Started by importing essential libraries and setting up the Wikipedia API wrapper for seamless querying.
 
